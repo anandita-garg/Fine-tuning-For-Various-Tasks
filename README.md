@@ -29,3 +29,15 @@ Finetuning was carried out on Kaggle GPU t4 x2
 | ELECTRA            | 65.04            |
 
 DistilroBERTa-base outperformed DistilBERT and ELECTRA in both kinds of sentiment analysis.
+
+## Other tasks are available on Kaggle
+
+Natural Language Inference:
+https://www.kaggle.com/datasets/ananditaaaaa/deberta-nli
+https://www.kaggle.com/datasets/ananditaa/flan-t5-snli-task
+https://www.kaggle.com/datasets/ananditaa/electra-snli
+
+CoT Reasoning:
+https://www.kaggle.com/datasets/ananditaagarg/0-acuracy-model
+https://www.kaggle.com/datasets/ananditaaaaa/flan-t5-base-cot
+https://www.kaggle.com/datasets/ananditaaaaa/t5-reasoning-cot
